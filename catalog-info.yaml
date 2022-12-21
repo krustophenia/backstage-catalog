@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: falier-test
+  annotations: 
+    gitlab.com/project-id: '29278923' 
+spec:
+  type: service
